@@ -1,0 +1,674 @@
+C0018681	ache head
+C0018681	aches head
+C0018681	cephalalgia
+C0018681	cephalgia
+C0018681	cephalgias
+C0018681	cranial pain
+C0018681	head ache
+C0018681	head pain
+C0018681	head pained
+C0018681	head pains
+C0018681	headache
+C0018681	headaches
+C0018681	heading pain
+C0018681	heads pain
+C0018681	pain head
+C0018681	pain in head
+C0149931	disorder migraine
+C0149931	disorders migraine
+C0149931	headache migraine
+C0149931	headache migraines
+C0149931	headaches migraine
+C0149931	headaches migraines
+C0149931	migraine
+C0149931	migraine headache
+C0149931	migraine headaches
+C0149931	migraine nos
+C0149931	migraine syndrome
+C0149931	migraine syndromes
+C0149931	migraines
+C0235309	ache stomach
+C0235309	ache tummy
+C0235309	aches belly
+C0235309	aches stomach
+C0235309	aches tummy
+C0235309	belly ache
+C0235309	discomfort stomach
+C0235309	sore tummy
+C0235309	stomach ache
+C0235309	stomach discomfort
+C0235309	stomach upset
+C0235309	stomach upsets
+C0235309	stomachache
+C0235309	stomachaches
+C0235309	stomachs upset
+C0235309	tummy ache
+C0235309	upset stomach
+C0235309	upset tummy
+C0042963	emesis
+C0042963	throw up
+C0042963	throwing up
+C0042963	throws up
+C0042963	vomit
+C0042963	vomited
+C0042963	vomiting
+C0042963	vomitings
+C0042963	vomits
+C0042963	vomitting
+C0011991	bowel loose movements
+C0011991	bowels loose movement
+C0011991	diarrhea
+C0011991	diarrhea nos
+C0011991	diarrhea running
+C0011991	diarrheas
+C0011991	diarrhoea
+C0011991	loose bowel motion
+C0011991	loose bowel movement
+C0011991	watery stool
+C0011991	watery stools
+C0027497	feel sick
+C0027497	feeling sick
+C0027497	nausea
+C0027497	nausea symptom
+C0027497	nausea symptoms
+C0027497	nauseas
+C0027497	nauseated
+C0027497	nauseating
+C0027497	nauseous
+C0027497	queasy
+C0027497	sick feeling
+C0027497	symptom nausea
+C0027497	symptoms nausea
+C0003123	anorexia
+C0003123	anorexic
+C0003123	anorexics
+C0003123	appetite lack
+C0003123	appetite loss
+C0003123	appetite lost
+C0003123	appetites lack
+C0003123	lack appetite
+C0003123	lack of appetite
+C0003123	loss appetite
+C0003123	loss of appetite
+C0003123	lost appetite
+C0003123	no appetite
+C0003123	of appetite loss
+C0043096	decrease weight
+C0043096	decreased weight
+C0043096	decreases weight
+C0043096	lose weight
+C0043096	loseing weight
+C0043096	loses weight
+C0043096	losing weight
+C0043096	loss of weight
+C0043096	loss weight
+C0043096	loss wt
+C0043096	lossing weight
+C0043096	lost weight
+C0043096	of weight loss
+C0043096	reduction weight
+C0043096	weight decrease
+C0043096	weight lose
+C0043096	weight loss
+C0043096	weight lost
+C0043096	weight reduction
+C0043096	weightloss
+C0043096	wt loss
+C0085631	agitate
+C0085631	agitated
+C0085631	agitated behavior
+C0085631	agitates
+C0085631	agitation
+C0085631	psychomotor agitation
+C0085631	restless
+C0085631	restlessness
+C0917801	disorders insomnia sleep
+C0917801	insomnia
+C0917801	insomnia sleep disorder
+C0917801	insomnia symptom
+C0917801	insomnia symptoms
+C0917801	insomnias
+C0917801	sleeplessness
+C0001807	aggression
+C0001807	aggressive
+C0001807	aggressive behavior
+C0001807	aggressive behaviors
+C0001807	aggressive behaviour
+C0001807	aggressive behaviours
+C0001807	violent aggressive behavior
+C0022107	fussiness
+C0022107	irritability
+C0022107	irritable
+C0022107	irritable mood
+C0554980	moody
+C0002957	anger
+C0002957	angered
+C0002957	angers
+C0002957	angry
+C0085633	altered moods
+C0085633	altering mood
+C0085633	change mood
+C0085633	change moods
+C0085633	changes mood
+C0085633	emotional instability
+C0085633	emotional lability
+C0085633	emotionally labile
+C0085633	labile mood
+C0085633	mood change
+C0085633	mood labile
+C0085633	mood swing
+C0085633	mood swings
+C0085633	swings mood
+C0344315	depressed
+C0344315	depressed mood
+C0344315	depressing
+C0344315	depression
+C0344315	depression moods
+C0344315	down feeling
+C0344315	down feelings
+C0344315	feeling down
+C0344315	melancholic
+C0344315	melancholy
+C0344315	miserable
+C0344315	sad
+C0344315	sadness
+C0010399	cry
+C0010399	crying
+C0010399	crys
+C0010399	sobbing
+C0424092	withdrawn
+C0344315	depressed
+C0344315	depressed mood
+C0344315	depressing
+C0344315	depression
+C0344315	depression moods
+C0344315	down feeling
+C0344315	down feelings
+C0344315	feeling down
+C0344315	melancholic
+C0344315	melancholy
+C0344315	miserable
+C0344315	sad
+C0344315	sadness
+C0424091	decreased interest
+C0424091	lack of interest
+C0424091	loss of interest
+C0392674	exhausted
+C0392674	exhaustion
+C0392674	wash out
+C0234450	sleepy
+C0234450	somnolent
+C0557875	tired
+C0443208	dull
+C0085632	affects lack
+C0085632	apathetic
+C0085632	apathy
+C0085632	indifference
+C0085632	listless
+C0085632	listlessness
+C0004093	asthenia
+C0004093	asthenic
+C0004093	debility
+C0004093	feel weak
+C0004093	feeling weak
+C0004093	feeling weakness
+C0004093	feels weak
+C0004093	general weakness
+C0004093	generalized weakness
+C0004093	lassitude
+C0004093	loss of strength
+C0004093	loss strength
+C0004093	of strength loss
+C0004093	strength loss
+C0004093	weak
+C0004093	weak feeling
+C0004093	weakness
+C0004093	weaknesses
+C0015672	energy loss
+C0015672	extreme fatigue
+C0015672	fatigu
+C0015672	fatigue
+C0015672	fatigue extreme
+C0015672	fatigued
+C0015672	fatigues
+C0015672	fatiguing
+C0015672	fatigus
+C0015672	lack of energy
+C0015672	lacking energy
+C0015672	loss of energy
+C0015672	tatt
+C0015672	time tired
+C0015672	tired all the time
+C0015672	tired time
+C0015672	tiredness
+C0015672	weariness
+C0040822	d tremors
+C0040822	quiver
+C0040822	quivering
+C0040822	quivers
+C0040822	shake
+C0040822	shaked
+C0040822	shakeing
+C0040822	shakes
+C0040822	shaking
+C0040822	shakings
+C0040822	the shakes
+C0040822	tremor
+C0040822	tremoring
+C0040822	tremors
+C0392703	shaki
+C0392703	shakiness
+C0392703	shaky
+C0392703	shakying
+C0012833	dizzi
+C0012833	dizzied
+C0012833	dizzies
+C0012833	dizziness
+C0012833	dizzy
+C0012833	dizzying
+C0012833	dizzyness
+C0012833	wooziness
+C0012833	woozy
+C0027769	feeling jittery
+C0027769	jittery feeling
+C0027769	nervou
+C0027769	nervous
+C0027769	nervous tension
+C0027769	nervousness
+C0027769	psychological stress
+C0231530	jerk
+C0231530	jerked
+C0231530	jerking
+C0231530	jerks
+C0231530	muscle twitch
+C0231530	muscle twitching
+C0231530	muscles twitch
+C0231530	muscles twitching
+C0231530	twitch
+C0231530	twitch muscle
+C0231530	twitche
+C0231530	twitched
+C0231530	twitches
+C0231530	twitching
+C0231530	twitching muscle
+C0231530	twitchs
+C0005757	blink
+C0005757	blinking
+C0005757	blinks
+C0005757	eyeblink
+C0278076	behavioral tic
+C0278076	disorders habit
+C0278076	habit disorder
+C0278076	habit spasm
+C0278076	tic
+C0278076	tics
+C0006325	bruxism
+C0006325	grind teeth
+C0006325	grinding of teeth
+C0006325	grinding teeth
+C0006325	grinding teeth disorders
+C0006325	grinding tooth
+C0006325	teeth grind
+C0006325	teeth grinding
+C0006325	teeth grinding disorder
+C0006325	tooth grinding
+C0850674	eye twitch
+C0850674	eye twitching
+C0850674	eyes twitch
+C0850674	eyes twitching
+C0850674	twitch eye
+C0850674	twitching eyes
+C0027338	biting nail
+C0027338	biting nails
+C0027338	nail bite
+C0027338	nail biting
+C0027338	nail-biting
+C0027338	onychophagia
+C1262479	scratching
+C0240192	lip chew
+C0240192	lip chewing
+C1263327	bite lip
+C1263327	bite lips
+C1263327	biting lip
+C1263327	biting lips
+C1263327	lip biting
+C0233625	bites cheek
+C0233625	biting cheek
+C0233625	cheek bite
+C0233625	cheek biting
+C0233625	cheek chewing
+C0233625	morsicatio buccarum
+C0015256	excoriation
+C0015256	excoriations
+C0241424	bite tongue
+C0241424	bites tongue
+C0241424	biting tongue
+C0241424	tongue bite
+C0241424	tongue biting
+C0018524	hallucinate
+C0018524	hallucinated
+C0018524	hallucinating
+C0018524	hallucination
+C0018524	hallucinationing
+C0018524	hallucinations
+C0028765	behavior obsessive
+C0028765	obsessive behavior
+C0028765	obsessive behaviour
+C0085281	addiction
+C0085281	addictions
+C0085281	addictive behavior
+C0085281	addictive behaviors
+C0003467	anxieties
+C0003467	anxiety
+C0003467	anxious
+C0003467	anxiousness
+C0241331	loquacious
+C0241331	talkative
+C0233575	hyperactive
+C1285542	focus
+C1285542	focused
+C0018592	good mood
+C0018592	happi
+C0018592	happiness
+C0018592	happy
+C0018592	joi
+C0018592	joy
+C0018592	joys
+C0030319	disorder panic
+C0030319	disorders panic
+C0030319	panic disorder
+C0030319	panic disorders
+C0233481	worried
+C0233481	worries
+C0233481	worry
+C0233481	worrying
+C0237529	confidence
+C0237529	self confidence
+C0237529	self-confidence
+C0424589	energi
+C0424589	energies
+C0424589	energy
+C0424589	vitality
+C0600104	behavior obsessive compulsive
+C0600104	behaviour obsessive compulsive
+C0600104	compulsion
+C0600104	compulsions
+C0600104	compulsions compulsive disorder
+C0600104	compulsive behavior
+C0600104	compulsive behaviors
+C0600104	compulsive behaviour
+C0600104	compulsive obsessive behavior
+C0600104	compulsiveness
+C0600104	obsessive compulsive behavior
+C0600104	obsessive compulsive behaviour
+C0542193	relax
+C0542193	relaxed
+C0542193	relaxing
+C0011551	depersonalisation
+C0011551	depersonalization
+C0239833	hand pain
+C0239833	hand painful
+C0239833	hand pains
+C0239833	hands pain
+C0239833	hands painful
+C0239833	hands pains
+C0239833	pain in hand
+C0239833	painful hand
+C0152128	drug withdrawal
+C0152128	drug withdrawal syndrome
+C0152128	drug withdrawals
+C0152128	drugs withdrawal
+C0221423	ailment
+C0221423	ailments
+C0221423	feeling ill
+C0221423	illness
+C0221423	illnessed
+C0221423	illnesses
+C0221423	sickness
+C0221423	sicknesses
+C0003811	abnormal cardiac rhythm
+C0003811	Abnormal heart rhythms
+C0003811	arrhythmia
+C0003811	arrhythmia cardiac
+C0003811	arrhythmia heart
+C0003811	arrhythmias
+C0003811	arrhythmias cardiac
+C0003811	arrythmia
+C0003811	arrythmias
+C0003811	cardiac arrhythmia
+C0003811	cardiac arrhythmias
+C0003811	cardiac dysrhythmia
+C0003811	cardiac dysrhythmias
+C0003811	dysrhythmia
+C0003811	dysrhythmias
+C0003811	heart arrhythmia
+C0003811	heart arrhythmias
+C0003811	heart rhythm disorder
+C0003811	irregular heartbeat
+C0008031	chest pain
+C0008031	chest pain nos
+C0008031	chest pains
+C0008031	pain chest
+C0008031	pain chest nos
+C0008031	pain thorax
+C0008031	pains chest
+C0008031	thorax pain
+C0020649	arterial hypotension
+C0020649	blood decreasing pressure
+C0020649	blood drop pressure
+C0020649	blood dropping pressure
+C0020649	blood drops pressure
+C0020649	blood falling pressure
+C0020649	blood falls pressure
+C0020649	blood low pressure
+C0020649	blood lower pressure
+C0020649	blood lowered pressure
+C0020649	blood lowering pressure
+C0020649	blood lowers pressure
+C0020649	blood lowing pressure
+C0020649	blood pressure drop
+C0020649	blood pressure low
+C0020649	blood pressure lower
+C0020649	bp lower
+C0020649	decreased blood pressure
+C0020649	drop in blood pressure
+C0020649	dropped blood pressure
+C0020649	hypopiesis
+C0020649	hypotension
+C0020649	hypotension arterial
+C0020649	low blood pressure
+C0020649	low blood pressures
+C0020649	low bp
+C0020649	lower blood pressure
+C0039231	beat heart rapid
+C0039231	beats heart rapid
+C0039231	fast heart rate
+C0039231	fast pulse
+C0039231	heart high rate
+C0039231	heart high rates
+C0039231	heart increased rates
+C0039231	heart increasing rate
+C0039231	heart increasing rates
+C0039231	heart rate fast
+C0039231	heart rate increased
+C0039231	heart rate rapid
+C0039231	heartbeat increased
+C0039231	heartbeat rapid
+C0039231	heartbeats rapid
+C0039231	high pulse rate
+C0039231	increased heart rate
+C0039231	increased pulse
+C0039231	increased pulse rate
+C0039231	pulse increased
+C0039231	pulse rapid
+C0039231	rapid heart beat
+C0039231	rapid heart rate
+C0039231	rapid heartbeat
+C0039231	rapid pulse
+C0039231	tachycardia
+C0039231	tachycardias
+C0080203	rapid and irregular heartbeat
+C0080203	tachyarrhythmia
+C0080203	tachyarrhythmias
+C0080203	tachycardia
+C0085907	blood high pressure
+C0085907	blood pressure high
+C0085907	bp high
+C0085907	HBP
+C0085907	high blood pressure
+C0085907	high blood pressures
+C0085907	high bp
+C0085907	high pressure blood
+C0042034	micturition
+C0042034	pass urine
+C0042034	passed urine
+C0042034	passing urine
+C0042034	urination
+C0042034	urinations
+C0042034	urine void
+C0042034	void
+C0042034	void urine
+C0042034	voided
+C0042034	voiding
+C0042034	voidings
+C0042034	voids
+C0848392	frequent urination
+C0848392	urgent urination
+C0848392	urination frequent
+C0011018	day dreaming
+C0011018	daydream
+C0011018	daydreaming
+C0011018	daydreams
+C0015170	euphoria
+C0015230	efflorescence
+C0015230	exanthem
+C0015230	exanthema
+C0015230	exanthemas
+C0015230	exanthemata
+C0015230	exanthematas
+C0015230	exanthems
+C0015230	rash
+C0015230	rash skin
+C0015230	rashe
+C0015230	rashed
+C0015230	rashes
+C0015230	rashs
+C0015230	rashs skin
+C0015230	skin rash
+C0015230	spots
+C0015469	facial palsy
+C0015469	facial paralyse
+C0015469	facial paralyses
+C0015469	facial paralysis
+C0015469	palsy facial
+C0015469	paralysis facial
+C0016204	fart
+C0016204	farting
+C0016204	farts
+C0016204	flatu
+C0016204	flatulence
+C0016204	flatus
+C0016204	gas passing
+C0016204	pass wind
+C0016204	passing wind
+C0016204	symptoms wind
+C0016204	wind
+C0016204	winding
+C0023618	appetite sexual
+C0023618	drive sex
+C0023618	drives sex
+C0023618	libido
+C0023618	libidos
+C0023618	sex drive
+C0023618	sexual appetite
+C0023618	sexual desire
+C0023618	sexual urge
+C0037315	apnea sleep
+C0037315	apnea sleep syndrome
+C0037315	apnea sleeping
+C0037315	apnea syndrome
+C0037315	apnoea sleeping
+C0037315	breathing disorder during sleeping
+C0037315	breathing disorder sleep
+C0037315	breathing disorders sleep
+C0037315	breathing sleep disorder
+C0037315	sleep apnea
+C0037315	sleep apnea syndrome
+C0037315	sleep apnea syndromes
+C0037315	sleep apneas
+C0037315	sleep apnoea
+C0037315	sleep apnoea syndrome
+C0037315	sleep breath disorder
+C0037315	sleep disordered breathing
+C0037315	sleep hypopnea
+C0037315	sleep-disordered breathing
+C0037315	syndrome sleep apnea
+C0038990	hidrosis
+C0038990	perspir
+C0038990	perspiration
+C0038990	perspiring
+C0038990	sweat
+C0038990	sweates
+C0038990	sweating
+C0038990	sweating symptom
+C0038990	sweating symptoms
+C0038990	sweats
+C0038990	sweatting
+C0040460	ache tooth
+C0040460	aches tooth
+C0040460	dentagra
+C0040460	dental pain
+C0040460	dentalgia
+C0040460	in tooth pain
+C0040460	odontalgia
+C0040460	pain dental
+C0040460	pain tooth
+C0040460	tooth ache
+C0040460	tooth in pain
+C0040460	tooth pain
+C0040460	toothache
+C0040460	toothaches
+C0149741	breast discharge
+C0149741	breast discharges
+C0149741	breasts discharge
+C0149741	discharge breast
+C0149741	discharge from nipple
+C0149741	discharge nipple
+C0149741	discharge nipples
+C0149741	nipple discharg
+C0149741	nipple discharge
+C0728899	intoxication
+C0728899	intoxications
+C0234211	needle pin sensations
+C0234211	needle pins
+C0234211	needle pins sensation
+C0234211	needles pin
+C0234211	needles pin sensation
+C0234211	needles pins
+C0234211	needles pins sensations
+C0234211	pins needles
+C0234211	pins needles sensation
+C0234211	sensation tingling
+C0234211	sensations tingling
+C0234211	tingl
+C0234211	tingling
+C0234211	tingling sensation
+C0234211	tinglinging
+C0234211	tinglings
+C0344320	dreaming vivid
+C0344320	vivid dream
+C0344320	vivid dreams
+C0017605	angle closure glaucoma
+C0017605	angle-closure glaucoma
+C0017605	angles glaucoma narrow
+C0017605	close angle glaucoma
+C0017605	closed angle glaucoma
+C0017605	closed-angle glaucoma
+C0017605	glaucoma angle-closure
+C0017605	glaucoma closed angle
+C0017605	glaucoma narrow angle
+C0017605	narrow angle glaucoma
+C0017605	narrow glaucoma angle
+C0017605	narrow-angle glaucoma
+C0233778	synaesthesia
+C0233778	synesthesia

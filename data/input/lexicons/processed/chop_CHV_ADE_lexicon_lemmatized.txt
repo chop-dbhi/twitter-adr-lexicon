@@ -1,0 +1,390 @@
+C0018681	 ach head
+C0018681	 cephalalgia
+C0018681	 cephalgia
+C0018681	 cranial pain
+C0018681	 head ach
+C0018681	 head pain
+C0018681	 headach
+C0018681	 pain head
+C0149931	 disord migrain
+C0149931	 headach migrain
+C0149931	 migrain
+C0149931	 migrain headach
+C0149931	 migrain syndrom
+C0235309	 ach stomach
+C0235309	 ach tummi
+C0235309	 ach belli
+C0235309	 belli ach
+C0235309	 discomfort stomach
+C0235309	 sore tummi
+C0235309	 stomach ach
+C0235309	 stomach discomfort
+C0235309	 stomach upset
+C0235309	 stomachach
+C0235309	 tummi ach
+C0235309	 upset stomach
+C0235309	 upset tummi
+C0042963	 emesi
+C0042963	 throw
+C0042963	 vomit
+C0011991	 bowel loos movement
+C0011991	 diarrhea
+C0011991	 diarrhea run
+C0011991	 diarrhoea
+C0011991	 loos bowel motion
+C0011991	 loos bowel movement
+C0011991	 wateri stool
+C0027497	 feel sick
+C0027497	 nausea
+C0027497	 nausea symptom
+C0027497	 nauseat
+C0027497	 nauseou
+C0027497	 queasi
+C0027497	 sick feel
+C0027497	 symptom nausea
+C0003123	 anorexia
+C0003123	 anorex
+C0003123	 appetit lack
+C0003123	 appetit loss
+C0003123	 appetit lost
+C0003123	 lack appetit
+C0003123	 loss appetit
+C0003123	 lost appetit
+C0003123	 appetit
+C0043096	 decreas weight
+C0043096	 lose weight
+C0043096	 loss weight
+C0043096	 loss wt
+C0043096	 lost weight
+C0043096	 weight loss
+C0043096	 reduct weight
+C0043096	 weight decreas
+C0043096	 weight lose
+C0043096	 weight lost
+C0043096	 weight reduct
+C0043096	 weightloss
+C0043096	 wt loss
+C0085631	 agit
+C0085631	 agit behavior
+C0085631	 psychomotor agit
+C0085631	 restless
+C0917801	 disord insomnia sleep
+C0917801	 insomnia
+C0917801	 insomnia sleep disord
+C0917801	 insomnia symptom
+C0917801	 sleepless
+C0001807	 aggress
+C0001807	 aggress behavior
+C0001807	 aggress behaviour
+C0001807	 violent aggress behavior
+C0022107	 fussi
+C0022107	 irrit
+C0022107	 irrit mood
+C0554980	 moodi
+C0002957	 anger
+C0002957	 angri
+C0085633	 alter mood
+C0085633	 chang mood
+C0085633	 emot instabl
+C0085633	 emot labil
+C0085633	 labil mood
+C0085633	 mood chang
+C0085633	 mood labil
+C0085633	 mood swing
+C0085633	 swing mood
+C0344315	 depress
+C0344315	 depress mood
+C0344315	 feel
+C0344315	 melanchol
+C0344315	 melancholi
+C0344315	 miser
+C0344315	 sad
+C0010399	 cri
+C0010399	 sob
+C0424092	 withdrawn
+C0424091	 decreas interest
+C0424091	 lack interest
+C0424091	 loss interest
+C0392674	 exhaust
+C0392674	 wash
+C0234450	 sleepi
+C0234450	 somnol
+C0557875	 tire
+C0443208	 dull
+C0085632	 affect lack
+C0085632	 apathet
+C0085632	 apathi
+C0085632	 indiffer
+C0085632	 listless
+C0004093	 asthenia
+C0004093	 asthen
+C0004093	 debil
+C0004093	 feel weak
+C0004093	 gener weak
+C0004093	 lassitud
+C0004093	 loss strength
+C0004093	 strength loss
+C0004093	 weak
+C0004093	 weak feel
+C0015672	 energi loss
+C0015672	 extrem fatigu
+C0015672	 fatigu
+C0015672	 fatigu extrem
+C0015672	 lack energi
+C0015672	 loss energi
+C0015672	 tatt
+C0015672	 time tire
+C0015672	 tire time
+C0015672	 tired
+C0015672	 weari
+C0040822	 d tremor
+C0040822	 quiver
+C0040822	 shake
+C0040822	 tremor
+C0392703	 shaki
+C0012833	 dizzi
+C0012833	 dizzy
+C0012833	 woozi
+C0027769	 feel jitteri
+C0027769	 jitteri feel
+C0027769	 nervou
+C0027769	 nervou tension
+C0027769	 nervous
+C0027769	 psycholog stress
+C0231530	 jerk
+C0231530	 muscl twitch
+C0231530	 twitch
+C0231530	 twitch muscl
+C0005757	 blink
+C0005757	 eyeblink
+C0278076	 behavior tic
+C0278076	 disord habit
+C0278076	 habit disord
+C0278076	 habit spasm
+C0278076	 tic
+C0006325	 bruxism
+C0006325	 grind teeth
+C0006325	 grind teeth disord
+C0006325	 grind tooth
+C0006325	 teeth grind
+C0006325	 teeth grind disord
+C0006325	 tooth grind
+C0850674	 eye twitch
+C0850674	 twitch eye
+C0027338	 bite nail
+C0027338	 nail bite
+C0027338	 onychophagia
+C1262479	 scratch
+C0240192	 lip chew
+C1263327	 bite lip
+C1263327	 lip bite
+C0233625	 bite cheek
+C0233625	 cheek bite
+C0233625	 cheek chew
+C0233625	 morsicatio buccarum
+C0015256	 excori
+C0241424	 bite tongu
+C0241424	 tongu bite
+C0018524	 hallucin
+C0028765	 behavior obsess
+C0028765	 obsess behavior
+C0028765	 obsess behaviour
+C0085281	 addict
+C0085281	 addict behavior
+C0003467	 anxieti
+C0003467	 anxiou
+C0003467	 anxious
+C0241331	 loquaci
+C0241331	 talk
+C0233575	 hyperact
+C1285542	 focu
+C1285542	 focus
+C0018592	 good mood
+C0018592	 happi
+C0018592	 joi
+C0018592	 joy
+C0030319	 disord panic
+C0030319	 panic disord
+C0233481	 worri
+C0237529	 confid
+C0237529	 self confid
+C0424589	 energi
+C0424589	 vital
+C0600104	 behavior obsess compuls
+C0600104	 behaviour obsess compuls
+C0600104	 compuls
+C0600104	 compuls compuls disord
+C0600104	 compuls behavior
+C0600104	 compuls behaviour
+C0600104	 compuls obsess behavior
+C0600104	 obsess compuls behavior
+C0600104	 obsess compuls behaviour
+C0542193	 relax
+C0011551	 depersonalis
+C0011551	 deperson
+C0239833	 hand pain
+C0239833	 pain hand
+C0152128	 drug withdraw
+C0152128	 drug withdraw syndrom
+C0221423	 ailment
+C0221423	 feel ill
+C0221423	 ill
+C0221423	 sick
+C0003811	 abnorm cardiac rhythm
+C0003811	 Abnorm heart rhythm
+C0003811	 arrhythmia
+C0003811	 arrhythmia cardiac
+C0003811	 arrhythmia heart
+C0003811	 arrythmia
+C0003811	 cardiac arrhythmia
+C0003811	 cardiac dysrhythmia
+C0003811	 dysrhythmia
+C0003811	 heart arrhythmia
+C0003811	 heart rhythm disord
+C0003811	 irregular heartbeat
+C0008031	 chest pain
+C0008031	 pain chest
+C0008031	 pain thorax
+C0008031	 thorax pain
+C0020649	 arteri hypotens
+C0020649	 blood decreas pressur
+C0020649	 blood drop pressur
+C0020649	 blood fall pressur
+C0020649	 blood low pressur
+C0020649	 blood lower pressur
+C0020649	 blood pressur drop
+C0020649	 blood pressur low
+C0020649	 blood pressur lower
+C0020649	 bp lower
+C0020649	 decreas blood pressur
+C0020649	 drop blood pressur
+C0020649	 hypopiesi
+C0020649	 hypotens
+C0020649	 hypotens arteri
+C0020649	 low blood pressur
+C0020649	 low bp
+C0020649	 lower blood pressur
+C0039231	 beat heart rapid
+C0039231	 fast heart rate
+C0039231	 fast puls
+C0039231	 heart high rate
+C0039231	 heart increas rate
+C0039231	 heart rate fast
+C0039231	 heart rate increas
+C0039231	 heart rate rapid
+C0039231	 heartbeat increas
+C0039231	 heartbeat rapid
+C0039231	 high puls rate
+C0039231	 increas heart rate
+C0039231	 increas puls
+C0039231	 increas puls rate
+C0039231	 puls increas
+C0039231	 puls rapid
+C0039231	 rapid heart beat
+C0039231	 rapid heart rate
+C0039231	 rapid heartbeat
+C0039231	 rapid puls
+C0039231	 tachycardia
+C0080203	 rapid irregular heartbeat
+C0080203	 tachyarrhythmia
+C0080203	 tachycardia
+C0085907	 blood high pressur
+C0085907	 blood pressur high
+C0085907	 bp high
+C0085907	 HBP
+C0085907	 high blood pressur
+C0085907	 high bp
+C0085907	 high pressur blood
+C0042034	 micturit
+C0042034	 pass urin
+C0042034	 urin
+C0042034	 urin void
+C0042034	 void
+C0042034	 void urin
+C0848392	 frequent urin
+C0848392	 urgent urin
+C0848392	 urin frequent
+C0011018	 day dream
+C0011018	 daydream
+C0015170	 euphoria
+C0015230	 effloresc
+C0015230	 exanthem
+C0015230	 exanthema
+C0015230	 exanthemata
+C0015230	 rash
+C0015230	 rash skin
+C0015230	 skin rash
+C0015230	 spot
+C0015469	 facial palsi
+C0015469	 facial paralys
+C0015469	 facial paralysi
+C0015469	 palsi facial
+C0015469	 paralysi facial
+C0016204	 fart
+C0016204	 flatu
+C0016204	 flatul
+C0016204	 ga pass
+C0016204	 pass wind
+C0016204	 symptom wind
+C0016204	 wind
+C0023618	 appetit sexual
+C0023618	 drive sex
+C0023618	 libido
+C0023618	 sex drive
+C0023618	 sexual appetit
+C0023618	 sexual desir
+C0023618	 sexual urg
+C0037315	 apnea sleep
+C0037315	 apnea sleep syndrom
+C0037315	 apnea syndrom
+C0037315	 apnoea sleep
+C0037315	 breath disord dure sleep
+C0037315	 breath disord sleep
+C0037315	 breath sleep disord
+C0037315	 sleep apnea
+C0037315	 sleep apnea syndrom
+C0037315	 sleep apnoea
+C0037315	 sleep apnoea syndrom
+C0037315	 sleep breath disord
+C0037315	 sleep disord breath
+C0037315	 sleep hypopnea
+C0037315	 syndrom sleep apnea
+C0038990	 hidrosi
+C0038990	 perspir
+C0038990	 sweat
+C0038990	 sweat symptom
+C0040460	 ach tooth
+C0040460	 dentagra
+C0040460	 dental pain
+C0040460	 dentalgia
+C0040460	 tooth pain
+C0040460	 odontalgia
+C0040460	 pain dental
+C0040460	 pain tooth
+C0040460	 tooth ach
+C0040460	 toothach
+C0149741	 breast discharg
+C0149741	 discharg breast
+C0149741	 discharg nippl
+C0149741	 nippl discharg
+C0728899	 intox
+C0234211	 needl pin sensat
+C0234211	 needl pin
+C0234211	 pin needl
+C0234211	 pin needl sensat
+C0234211	 sensat tingl
+C0234211	 tingl
+C0234211	 tingl sensat
+C0234211	 tingling
+C0344320	 dream vivid
+C0344320	 vivid dream
+C0017605	 angl closur glaucoma
+C0017605	 angl glaucoma narrow
+C0017605	 close angl glaucoma
+C0017605	 glaucoma angl closur
+C0017605	 glaucoma close angl
+C0017605	 glaucoma narrow angl
+C0017605	 narrow angl glaucoma
+C0017605	 narrow glaucoma angl
+C0233778	 synaesthesia
+C0233778	 synesthesia
